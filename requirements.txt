@@ -5,3 +5,5 @@ streamlit
 pillow
 streamlit_drawable_canvas
 opencv-python
+opencv_contrib_python
+opencv-python-headless

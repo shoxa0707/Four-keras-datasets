@@ -13,12 +13,12 @@ size-normalized and centered in a fixed-size image
 ### <span style="color:brown">Cifar10</span>
 
 The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. <br>
-There are 50000 training<br> images and 10000 test images.
+There are 50000 training images and 10000 test images.
 
 The dataset is divided into five training batches and one test batch, each with 10000 images. The test <br>
-batch contains exactly 1000<br> randomly-selected images from each class. The training batches contain the <br>
-remaining images in random order, but some training<br> batches may contain more images from one class than <br>
-another. Between them, the training batches contain exactly 5000 images from<br> each class.
+batch contains exactly 1000 randomly-selected images from each class. The training batches contain the <br>
+remaining images in random order, but some training batches may contain more images from one class than <br>
+another. Between them, the training batches contain exactly 5000 images from each class.
 
 ### <span style="color:green">Cifar100</span>
 
@@ -32,8 +32,8 @@ Here is the list of classes in the CIFAR-100:
 
 Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a <br>
 test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. <br>
-Zalando intends Fashion-MNIST to serve<br> as a direct drop-in replacement for the original MNIST dataset for <br>
-benchmarking machine learning algorithms. It shares the same<br> image size and structure of training and testing splits.
+Zalando intends Fashion-MNIST to serve as a direct drop-in replacement for the original MNIST dataset for <br>
+benchmarking machine learning algorithms. It shares the same image size and structure of training and testing splits.
 
 ### Usage of [Streamlit](https://github.com/streamlit/streamlit.git)
 
